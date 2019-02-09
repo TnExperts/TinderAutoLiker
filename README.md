@@ -1,8 +1,6 @@
 # TinderAutoLiker
 A tool to automatically like Tinder profile's.
 
-[![asciicast](https://asciinema.org/a/JM5ZdQU0y0hZxC11MdzLX9Mg2.png)](https://asciinema.org/a/JM5ZdQU0y0hZxC11MdzLX9Mg2)
-
 # Instructions
 1. Login into Tinder.com then right click Tinder in Google Chrome to "inspect" then click on the "Network" tab. 
 2. Next find the X-Auth-Token under the "Network" tab by pressing F5. 
